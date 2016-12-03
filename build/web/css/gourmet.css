@@ -1,0 +1,58 @@
+table {
+    background-color: white;
+    width: 90%;
+    margin-top: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px dashed #912524;
+}
+
+tr {
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 18px;
+}
+
+td {
+/*    border: 2px solid red;*/
+}
+
+#b1 {
+    background-image: url('../images/gourmet/b1.jpg');
+    
+}
+
+#b2 {
+    background-image: url('../images/gourmet/b2.jpg');
+}
+
+#b3 {
+    background-image: url('../images/gourmet/b3.jpg');
+}
+
+#b4 {
+    background-image: url('../images/gourmet/b4.jpg');
+}
+
+#b5 {
+    background-image: url('../images/gourmet/b5.jpg');
+}
+
+#b6 {
+    background-image: url('../images/gourmet/b6.jpg');
+}
+
+#b1, #b2, #b3, #b4, #b5, #b6 {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 320px;
+    height: 180px;
+    margin: auto;
+    border: 10px solid #912524;
+}
+
+#blank {
+    width: 320px;
+    height: 100px;
+}
+

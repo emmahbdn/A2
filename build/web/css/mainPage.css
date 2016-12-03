@@ -1,0 +1,61 @@
+table {
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+#make {
+    background-image: url('../images/menuicons/makeOwn.png');
+}
+
+#gourmet {
+    background-image: url('../images/menuicons/gourmet.png');
+}
+
+#sides {
+    background-image: url('../images/menuicons/sides.png');
+}
+
+#salads {
+    background-image: url('../images/menuicons/salads.png');
+}
+
+#drinks {
+    background-image: url('../images/menuicons/drinks.png');
+}
+
+#desserts {
+    background-image: url('../images/menuicons/desserts.png');
+}
+
+#make, #gourmet, #sides, #salads, #drinks, #desserts {
+    background-size: 100%;
+    width: 300px;
+    height: 330px;   
+}
+
+#make:hover {
+    background-image: url('../images/menuicons/makeOwn-hover.png');
+}
+
+#gourmet:hover  {
+    background-image: url('../images/menuicons/gourmet-hover.png');
+}
+
+#sides:hover  {
+    background-image: url('../images/menuicons/sides-hover.png');
+}
+
+#salads:hover  {
+    background-image: url('../images/menuicons/salads-hover.png');
+}
+
+#drinks:hover  {
+    background-image: url('../images/menuicons/drinks-hover.png');
+}
+
+#desserts:hover  {
+    background-image: url('../images/menuicons/desserts-hover.png');
+}

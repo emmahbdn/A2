@@ -1,0 +1,35 @@
+html {
+    background-image: url('../images/banner-lines.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #FBD730;
+}
+
+#links {
+    width: 60%;
+    margin-left: 35%;
+    margin-top: 80px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Anton', sans-serif;
+}
+
+a:link, a:hover, a:active, a:visited {
+    text-decoration: none;
+    color: #27456c; /* navy */
+}
+
+a:hover {
+    color: #912525; /* dark red */
+}
+
